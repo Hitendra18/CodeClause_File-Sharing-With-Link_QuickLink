@@ -12,7 +12,7 @@ const emailForm = document.querySelector("#email-form");
 const submitBtn = document.querySelector("#submitBtn");
 const toast = document.querySelector(".toast");
 
-const host = "https://fileshare-app.onrender.com/";
+const host = "https://quicklink-dqxj.onrender.com/";
 const uploadURL = `${host}api/files`;
 const emailURL = `${host}api/files/send`;
 
