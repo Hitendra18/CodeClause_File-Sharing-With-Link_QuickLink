@@ -2,11 +2,10 @@
 
 Welcome to the File Sharing Website project! This web application allows you to easily share files with others using a simple drag-and-drop or browse interface. You can generate shareable links or directly send files via email. This repository contains the source code and files for the website.
 
-![Screenshot 2023-08-30 045237](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/eefcb19b-72bd-49d1-9314-5e507f15486d)
-![Screenshot 2023-08-30 045248](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/7e32ee2d-09d4-4f1e-8952-8c2c17939c1f)
-![Screenshot 2023-08-30 045403-2](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/69fd162e-679f-4b3c-b188-ab7f9b5a2951)
-![Screenshot 2023-08-30 045320](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/37d1fd7e-3af3-429e-b39f-3782cae31f97)
-
+![Home Page](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/eefcb19b-72bd-49d1-9314-5e507f15486d)
+![File uploaded](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/0068de0e-9e1d-4050-adb1-04be9942e443)
+![email sent](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/69fd162e-679f-4b3c-b188-ab7f9b5a2951)
+![download page](https://github.com/Hitendra18/CodeClause_File-Sharing-With-Link_QuickLink/assets/88924097/aca4ac67-bf6e-4ca5-8b9c-a29ef438c646)
 
 
 
